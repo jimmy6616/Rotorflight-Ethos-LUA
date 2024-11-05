@@ -48,7 +48,7 @@ Disconnect the transmitter and power off\on. Once powered on press SYS key and s
 
 ## IMPORTANT: Changes will only be written to the eeprom when the aircraft is moved from Armed to Diasarmed, if you disconnect power when in an Armed state the changes will not be saved to eeprom.
 
-If installing for ELRS please see the [seperate section](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/main/ELRS%20Readme) before returning to this section.
+If installing for ELRS please see the [seperate section](ELRS.md) before returning to this section.
 
 Ensure the aircraft receiver and FBL are powered, Select the ICON above and you should see the following:
 

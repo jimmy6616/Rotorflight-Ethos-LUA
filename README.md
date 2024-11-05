@@ -51,7 +51,11 @@ Ensure the aircraft receiver and FBL are powered, Select the ICON above and you 
 
 ![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/Ethos_lua_3.jpg)
 
-In the example below of the PID's screen, 
+In the example below of the PID's screen
+
+PID's #1  - Will change depnding on which profile you have your TX switch set to
+MENU - Will take you to the top level menu (Please ensure you have clicked SAVE before exiting)
+
 
 
 ![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/pids-1.jpg)

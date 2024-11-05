@@ -20,7 +20,7 @@ Examples:
 - Frsky Ethos Radio (X18, X14 etc) with either SPORT,FPORT receiver or ELRS with an external module.
 
 
-If you're not using F.Port, start up the Rotorflight Configurator, go to the Configuration tab and enable the TELEMETRY feature. F.Port telemetry does work without enabling this feature.
+If you're using F.Port, start up the Rotorflight Configurator, go to the Configuration tab and enable the TELEMETRY feature. F.Port telemetry does not work without enabling this feature.
 
 If telemetry is working properly on your system, the Lua scripts should work as well.
 

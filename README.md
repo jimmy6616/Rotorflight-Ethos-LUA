@@ -27,7 +27,7 @@ If you're using F.Port, start up the Rotorflight Configurator, go to the Configu
 
 If telemetry is working properly on your system, the Lua scripts should also work.
 
-# Installation
+# Ethos Installation
 Download the Ethos LUA Suite for Frsky [latest release](https://github.com/rotorflight/rotorflight-configurator/releases) and save the zip file to your PC\laptop
 
 Open Frsky Ethos Suite and connect the USB-C cable, once connected, select Lua Development tools, 
@@ -64,6 +64,8 @@ SAVE - Will write your changes to eeprom
 ? - Is the help screen with useful information
 
 ![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/pid_help1.jpg)
+
+# ELRS Installation
 
 
 

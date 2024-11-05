@@ -48,7 +48,7 @@ Disconnect the transmitter and power off\on. Once powered on press SYS key and s
 
 ## IMPORTANT: Changes will only be written to the eeprom when the aircraft is moved from Armed to Diasarmed, if you disconnect power when in an Armed state the changes will not be saved to eeprom.
 
-If installing for ELRS please see the [seperate section](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/main/README.md#elrs-installation) at the bottom of this guide
+If installing for ELRS please see the [seperate section](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/main/README.md#elrs-installation) at the bottom of this guide before returning to this section.
 
 Ensure the aircraft receiver and FBL are powered, Select the ICON above and you should see the following:
 
@@ -72,6 +72,16 @@ Download the latest ELRS file [latest release](https://github.com/FrSkyRC/ETHOS-
 Choose download raw file
 
 ![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/elrs-1.jpg)
+
+Open Frsky Ethos Suite and connect the USB-C cable, once connected, select Lua Development tools, 
+
+![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/Ethos_lua_1.jpg)
+
+Select, Install LUA Scripts and choose the ELRS zip file from the download above, select rfsuite and Install LUA Sctipts
+
+
+
+![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/Ethos_lua_2.jpg)
 
 
 

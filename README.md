@@ -33,6 +33,9 @@ Open Frsky Ethos Suite and connect the USB-C cable, once connected, select Lua D
 
 Select, Install LUA Scripts and choose the zip file from the download above
 
+![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/Ethos_lua_2.jpg)
+
+
 ![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/sys_rf.jpg)
 
 

@@ -30,7 +30,9 @@ Download the RFSuite [latest release](https://github.com/rotorflight/rotorflight
 ![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/SD%20Card1.jpg)
 
 Disconnect and restart your trasmitter, press the SYS key and scroll to find this ICON
-![image](
+![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/sys_rf.jpg)
+
+
 
 
 

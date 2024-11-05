@@ -15,7 +15,10 @@ Select, Install LUA Scripts and choose the zip file from the download above, sel
 
 Close Ethos Suite
 
+Disconnect the transmitter and power off\on. Once powered on press SYS key and scroll to the end page, the following should be shown.
 
+
+![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/sys_rf.jpg)
 
 
 

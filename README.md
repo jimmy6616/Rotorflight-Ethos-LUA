@@ -67,9 +67,9 @@ SAVE - Will write your changes to eeprom
 ![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/pid_help1.jpg)
 
 # ELRS Installation
-Download the latest ELRS zip file [latest release](https://github.com/FrSkyRC/ETHOS-Feedback-Community/blob/1.5/lua/modules/elrs/elrs.zip) and save the zip file to your PC\laptop
+Download the latest ELRS file [latest release](https://github.com/FrSkyRC/ETHOS-Feedback-Community/blob/1.5/lua/modules/elrs/elrs.zip) and save the zip file to your PC\laptop
 
-Choose download raw
+Choose download raw file
 
 ![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/elrs-1.jpg)
 

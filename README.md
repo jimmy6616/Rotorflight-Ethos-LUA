@@ -25,5 +25,8 @@ If you're using F.Port, start up the Rotorflight Configurator, go to the Configu
 If telemetry is working properly on your system, the Lua scripts should also work.
 
 # Installation
-Download the RFSuite [latest release](https://github.com/rotorflight/rotorflight-configurator/releases) Unzip and copy the contents to the SCRIPTS folder to your transmitter.
+Download the RFSuite [latest release](https://github.com/rotorflight/rotorflight-configurator/releases) Unzip and copy the contents to the SCRIPTS folder to your transmitter, you will see the RFsuite directory once complete
+https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/SD%20Card1.jpg
+
+
 

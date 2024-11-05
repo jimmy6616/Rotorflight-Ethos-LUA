@@ -48,6 +48,10 @@ Disconnect the transmitter and power off\on. Once powered on press SYS key and s
 
 Select the ICON above and you should see the following:
 
+![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/Ethos_lua_3.jpg)
+
+
+
 
 
 

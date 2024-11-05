@@ -1,4 +1,4 @@
-# Ethos LUA Suite Guide operating with Rotorflight Configurator
+# RFSuite LUA Suite Guide operating with Rotorflight Configurator
 
 ## Introduction
 You can adjust a variety of settings using only your transmitter with the Rotorflight Lua scripts. They allow you to change things like PIDs, rates, filters, failsafe and governed headspeed at the field. 
@@ -13,7 +13,7 @@ Pre-requisites:
 
 - or an ELRS 2.0.1 or newer receiver.
 
-- If installing for ELRS please see the seperate section at the bottom of this guide
+- **If installing for ELRS please see the seperate section at the bottom of this guide**
 
 **NOTE: Ff you have a radio with both eMMC and an SDCARD such as a X20Pro\RS you MUST install onto the SDCard**
 

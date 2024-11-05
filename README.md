@@ -59,6 +59,8 @@ MENU - Will take you to the top level menu (Please ensure you have clicked SAVE 
 
 SAVE - Will write your changes to eeprom
 
+? - Is the help screen with useful information
+
 
 
 

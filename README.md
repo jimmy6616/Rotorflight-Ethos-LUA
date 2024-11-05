@@ -1,4 +1,4 @@
-# Ethos LUA Guide operating with Rotorflight Configurator
+# Ethos LUA Suite Guide operating with Rotorflight Configurator
 
 ## Introduction
 You can adjust a variety of settings using only your transmitter with the Rotorflight Lua scripts. They allow you to change things like PIDs, rates, filters, failsafe and governed headspeed at the field. 
@@ -25,6 +25,5 @@ If you're not using F.Port, start up the Rotorflight Configurator, go to the Con
 If telemetry is working properly on your system, the Lua scripts should work as well.
 
 # Installation
-Download the [latest release](https://github.com/rotorflight/rotorflight-configurator/releases) and copy the contents of the SCRIPTS folder to your transmitter.
+Download the [latest release](https://github.com/rotorflight/rotorflight-configurator/releases) Unzip and copy the contents to the SCRIPTS folder to your transmitter.
 
-and copy the contents of the SCRIPTS folder to your transmitter.

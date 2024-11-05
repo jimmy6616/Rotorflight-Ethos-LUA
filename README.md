@@ -71,7 +71,7 @@ Download the latest ELRS zip file [latest release](https://github.com/FrSkyRC/ET
 
 Choose download raw
 
-![image](![image](https://github.com/user-attachments/assets/0eba8224-0980-4c0e-aa05-194d8f89c2bc)
+![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/elrs-1.jpg)
 
 
 

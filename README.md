@@ -13,7 +13,7 @@ Pre-requisites:
 
 - or an ELRS 2.0.1 or newer receiver.
 
-  ### If installing for ELRS please see the seperate section at the bottom of this guide###
+- If installing for ELRS please see the seperate section at the bottom of this guide
 
 **NOTE: Ff you have a radio with both eMMC and an SDCARD such as a X20Pro\RS you MUST install onto the SDCard**
 

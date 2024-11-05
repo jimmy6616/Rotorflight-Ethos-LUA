@@ -1,5 +1,5 @@
 ## ELRS Receiver setup
 
-[Download](lua/modules/elrs/elrs.zip) and save to you PC\laptop.
+[Download](https://github.com/FrSkyRC/ETHOS-Feedback-Community/blob/1.5/lua/modules/elrs/elrs.zip) and save to you PC\laptop.
 
 

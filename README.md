@@ -53,7 +53,7 @@ Ensure the aircraft receiver and FBL are powered, Select the ICON above and you 
 
 In the example below of the PID's screen:
 
-PID's #1  - Will change depending on which profile you have your TX switch set
+PID's #1  - Will change depending on which profile you have your transmitter profile\bank switch set i.e. PID's #2, PID's #3 etc
 
 MENU - Will take you to the top level menu (Please ensure you have clicked SAVE before exiting)
 

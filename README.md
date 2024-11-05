@@ -61,7 +61,7 @@ SAVE - Will write your changes to eeprom
 
 ? - Is the help screen with useful information
 
-![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/pids-1.jpg)
+![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/pid_help1.jpg)
 
 
 

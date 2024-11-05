@@ -44,6 +44,8 @@ Disconnect the transmitter and power off\on. Once powered on press SYS key and s
 
 ![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/sys_rf.jpg)
 
+## IMPORTANT: Changes will only be written to the eeprom when the aircraft is moved from Armed to Diasarmed, if you disconnect power when in an Armed state the changes will not be saved to eeprom.
+
 
 
 

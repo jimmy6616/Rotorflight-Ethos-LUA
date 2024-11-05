@@ -68,6 +68,11 @@ SAVE - Will write your changes to eeprom
 
 # ELRS Installation
 
+# ELRS Installation
+Download the latest ELRS zip file [latest release](https://github.com/FrSkyRC/ETHOS-Feedback-Community/blob/1.5/lua/modules/elrs/elrs.zip) and save the zip file to your PC\laptop
+
+
+
 
 
 

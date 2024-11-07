@@ -2,11 +2,14 @@
 
 [Download](https://github.com/FrSkyRC/ETHOS-Feedback-Community/blob/1.5/lua/modules/elrs/elrs.zip) the raw file and save to you PC\laptop. This will be ELRS.zip
 
+
 ![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/elrs-1.jpg)
+
 
 Open Frsky Ethos Suite and connect the USB-C cable, once connected, select Lua Development tools, 
 
 ![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/Ethos_lua_1.jpg)
+
 
 Select, Install LUA Scripts and choose the zip file from the download above, select Elrs and Install LUA Sctipts
 

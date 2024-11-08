@@ -68,8 +68,6 @@ SAVE - Will write your changes to eeprom
 
 
 
-![image](https://github.com/jimmy6616/Rotorflight-Ethos-LUA/blob/img/Ethos_lua_2.jpg)
-
 
 
 

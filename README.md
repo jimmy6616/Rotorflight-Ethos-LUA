@@ -1,3 +1,6 @@
+## These pages are working enviorements for the Rotorflight.org and may not be complete
+
+
 # RFSuite LUA Suite Guide operating with Rotorflight Configurator
 
 ## Introduction
